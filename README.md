@@ -11,7 +11,11 @@ Format: Name (Times I seen this base after starting this)
 
 <a href="./TH9/The%20General.md">![the general](http://i.imgur.com/zrFEMf2.jpg)</a>
 
-Extra:
+##Tesla X/The Kardashian
+
+<a href="./TH9/Tesla-X,%20The%20Kardashian.md">![the general](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7759018_orig.png)</a>
+
+Extra bases here:
 http://forum.supercell.net/showthread.php/341620-COMPILATION-Best-TH9-Trophy-War-bases
 
 #TH-10
