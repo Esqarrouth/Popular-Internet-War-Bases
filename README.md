@@ -51,6 +51,10 @@ Format: Name (Times I seen this base after starting this)
 ##Walls Don't Matter
 <a href="./TH9/Walls%20Don't%20Matter.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/1760188_orig.png)</a>
 
+##PCB (Popular Chinese Base)
+<a href="./TH9/PCB%20(Popular%20Chinese%20Base).md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7450830_orig.png)</a>
+
+
 
 
 
