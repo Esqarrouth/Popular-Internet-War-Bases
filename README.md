@@ -33,6 +33,13 @@ Format: Name (Times I seen this base after starting this)
 ##Alpha Sector
 <a href="./TH9/Alpha%20Sector.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/432881_orig.png)</a>
 
+##Diamond Tesla Moat
+<a href="./TH9/Diamond%20Tesla%20Moat.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/8766365_orig.png)</a>
+
+
+  
+
+
 #TH-10
 
 Add these:
