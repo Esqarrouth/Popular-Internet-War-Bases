@@ -99,6 +99,9 @@ Format: Name (Times seen in AintNobody War)
 ##The Triton
 <a href="./TH9/The%20Triton.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443175050.png)</a>
 
+##4 Corners
+<a href="./TH9/4%20Corners.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443292450.png)</a>
+
 ##Unknown2
 <a href="./TH9/Unknown2.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1431045801.png)</a>
 
@@ -122,12 +125,6 @@ Format: Name (Times seen in AintNobody War)
 
 ##Unknown9
 <a href="./TH9/Unknown9.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443292815.png)</a>
-
-##Unknown10 (Outside Base)
-<a href="./TH9/Unknown10%20(Outside%20Base).md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443292450.png)</a>
-
-
-
 
 #TH-10
 
@@ -159,4 +156,9 @@ http://www.clashofclans-tools.com/Layouts/All-War-Top
 http://www.warclans.com/coc-base-layouts/any-war-top  
 http://forum.supercell.net/showthread.php/515597-KARA-Heroes-s-Internet-War-Bases-Encyclopedia  
 http://forum.supercell.net/showthread.php/341620-COMPILATION-Best-TH9-Trophy-War-bases  
+https://www.youtube.com/channel/UCHaDLHhFQuif9ytwetL0vPg/playlists
 
+#Sources Used:
+
+http://www.onehiveclan.com/3-star-popular-internetforum-bases-part-i.html
+http://www.gadihh.com/base-beat.html
