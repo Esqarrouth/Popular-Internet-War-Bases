@@ -87,6 +87,9 @@ Format: Name (Times seen in AintNobody War)
 ##Unknown2
 <a href="./TH9/Unknown2.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1431045801.png)</a>
 
+##Popular Japanese base
+<a href="./TH9/Popular%20Japanese%20base.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1431092629.png)</a>
+
 #TH-10
 
 ##Chris Anti-Hog
