@@ -3,16 +3,16 @@
 
 LavaLoon:
 
-https://www.youtube.com/watch?v=tdcv4Uvak-U
+www.youtube.com/watch?v=tdcv4Uvak-U
 
 GoWiPe:
 
-https://www.youtube.com/watch?v=_LXaOb5Dzd0
+www.youtube.com/watch?v=_LXaOb5Dzd0
 
 HoGoWiPe:
 
-https://www.youtube.com/watch?v=WVPQ2jHN5iU
+www.youtube.com/watch?v=WVPQ2jHN5iU
 
 HoGoWiWi:
 
-https://www.youtube.com/watch?v=6-ubXTFl24A
+www.youtube.com/watch?v=6-ubXTFl24A
