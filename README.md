@@ -12,6 +12,9 @@ Format: Name (Times I seen this base after starting this)
 ##The General
 <a href="./TH9/The%20General.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3320575_orig.png)</a>
 
+##The General by BigPapiSolis
+<a href="./TH9/The%20General%20by%20BigPapiSolis.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/5515596_orig.png)</a>
+
 ##Tesla X/The Kardashian
 <a href="./TH9/Tesla-X,%20The%20Kardashian.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7759018_orig.png)</a>
 
@@ -55,7 +58,7 @@ Format: Name (Times I seen this base after starting this)
 <a href="./TH9/PCB%20(Popular%20Chinese%20Base).md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7450830_orig.png)</a>
 
 ##Split Walls Base
-<a href="./TH9/PCBSplit%20Walls%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/2230834_orig.png)</a>
+<a href="./TH9/Split%20Walls%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/2230834_orig.png)</a>
 
 ##Anti Very Much Base
 <a href="./TH9/Anti%20Very%20Much%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/1269000_orig.png)</a>
