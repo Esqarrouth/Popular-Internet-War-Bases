@@ -110,6 +110,9 @@ Format: Name (Times seen in AintNobody War)
 ##The Dragon Flower
 <a href="./TH10/The%20Dragon%20Flower.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/4665970_orig.png)</a>
 
+##CF
+<a href="./TH10/CF.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1432392217.png)</a>
+
 
 #TODO:
 
