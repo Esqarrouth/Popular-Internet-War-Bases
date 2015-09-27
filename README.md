@@ -11,6 +11,8 @@ Format: Name (Times I seen this base after starting this)
 ##Unknown1 Base
 <a href="./TH8/Unknown1%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7399598_orig.png)</a>
 
+##The Ball (Spiral) Base
+<a href="./TH8/The%20Ball%20(Spiral)%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3903397_orig.png)</a>
 
 #TH-9
 
