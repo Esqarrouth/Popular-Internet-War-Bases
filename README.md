@@ -11,24 +11,27 @@ Format: Name (Times I seen this base after starting this)
 
 ##The General
 
-<a href="./TH9/The%20General.md">![the general](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3320575_orig.png)</a>
+<a href="./TH9/The%20General.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3320575_orig.png)</a>
 
 ##Tesla X/The Kardashian
 
-<a href="./TH9/Tesla-X,%20The%20Kardashian.md">![the general](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7759018_orig.png)</a>
+<a href="./TH9/Tesla-X,%20The%20Kardashian.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7759018_orig.png)</a>
 
 ##The Turtle
 
-<a href="./TH9/The%20Turtle.md">![the turtle](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3047222_orig.png)</a>
+<a href="./TH9/The%20Turtle.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3047222_orig.png)</a>
 
 ##Sir Mix Alot
-<a href="./TH9/Sir%20Mix%20Alot.md">![sir mix alot](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/8196502_orig.png)</a>
+<a href="./TH9/Sir%20Mix%20Alot.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/8196502_orig.png)</a>
 
 ##Gamatrix
-<a href="./TH9/Gamatrix.md">![gamatrix](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/4980940_orig.png)</a>
+<a href="./TH9/Gamatrix.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/4980940_orig.png)</a>
 
 ##Sudoku
-<a href="./TH9/Sudoku.md">![sudoku](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7563113_orig.png)</a>
+<a href="./TH9/Sudoku.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7563113_orig.png)</a>
+
+##Kamikaze Bacon Maker
+<a href="./TH9/Kamikaze%20Bacon%20Maker.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/6718308_orig.png)</a>
 
 
 #TH-10
