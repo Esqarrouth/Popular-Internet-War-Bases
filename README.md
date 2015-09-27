@@ -11,7 +11,7 @@ Format: Name (Times I seen this base after starting this)
 
 ##The General
 
-<a href="./TH9/The%20General.md">![the general](http://i.imgur.com/zrFEMf2.jpg)</a>
+<a href="./TH9/The%20General.md">![the general](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3320575_orig.png)</a>
 
 ##Tesla X/The Kardashian
 
@@ -19,10 +19,10 @@ Format: Name (Times I seen this base after starting this)
 
 ##The Turtle
 
-<a href="./TH9/The%20Turtle.md">![the turtle](http://i.ytimg.com/vi/ST-SimQTHUE/maxresdefault.jpg)</a>
+<a href="./TH9/The%20Turtle.md">![the turtle](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3047222_orig.png)</a>
 
 ##Sir Mix Alot
-<a href="./TH9/Sir%20Mix%20Alot.md">![sir mix alot](http://i.imgur.com/UbMbOjk.jpg)</a>
+<a href="./TH9/Sir%20Mix%20Alot.md">![sir mix alot](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/8196502_orig.png)</a>
 
 ##Gamatrix
 <a href="./TH9/Gamatrix.md">![gamatrix](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/4980940_orig.png)</a>
