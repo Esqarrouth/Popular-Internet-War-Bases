@@ -89,6 +89,10 @@ Format: Name (Times I seen this base after starting this)
 ##Chief Pat's Base
 <a href="./TH10/Chief%20Pat's%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7526890_orig.png)</a>
 
+##The Dragon Flower
+<a href="./TH10/The%20Dragon%20Flower.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/4665970_orig.png)</a>
+
+
 
 
 
