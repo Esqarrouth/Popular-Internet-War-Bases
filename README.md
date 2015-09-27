@@ -77,7 +77,8 @@ Format: Name (Times I seen this base after starting this)
 ##The Turtle
 <a href="./TH10/The%20Turtle.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7789849_orig.png)</a>
 
-
+##Chief Pat's Base
+<a href="./TH10/Chief%20Pat's%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7526890_orig.png)</a>
 
 
 
