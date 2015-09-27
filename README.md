@@ -1,6 +1,8 @@
 # Popular-Internet-War-Bases
 3 Star Popular Internet War Bases Compilation - Clash of Clans
 
+This compilation is brought to you by the clan AintNobody. Feel free to edit and add more bases by sending a pull request. Click on the images to view the videos on how to 3 star the bases.
+
 Format: Name (Times I seen this base after starting this)
 
 #TH-7
