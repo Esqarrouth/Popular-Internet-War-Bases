@@ -64,6 +64,17 @@ Format: Name (Times I seen this base after starting this)
 ##Chris Anti-Hog
 <a href="./TH10/Chris%20Anti-Hog.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/599337_orig.png)</a>
 
+##The Rubix Cube
+<a href="./TH10/The%20Rubix%20Cube.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/1884654_orig.png)</a>
+
+##Gamatrix
+<a href="./TH10/Gamatrix.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3227684_orig.png)</a>
+
+
+
+
+
+
 
 
 
