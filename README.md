@@ -70,6 +70,12 @@ Format: Name (Times I seen this base after starting this)
 ##Anti Very Much Base
 <a href="./TH9/Anti%20Very%20Much%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/1269000_orig.png)</a>
 
+##Base By MatuGaming
+<a href="./TH9/Base%20By%20MatuGaming.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/1615375_orig.png)</a>
+
+##White Flag Bases (anti hog)
+<a href="./TH9/White%20Flag%20Bases%20(anti%20hog).md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/2580469_orig.png)</a>
+
 
 
 
