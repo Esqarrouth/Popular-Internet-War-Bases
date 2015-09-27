@@ -3,9 +3,8 @@
 
 This compilation is brought to you by the clan AintNobody. Feel free to edit and add more bases by sending a pull request. Click on the images to view the videos on how to 3 star the bases.
 
-Format: Name (Times I seen this base after starting this)
+Format: Name (Times seen in AintNobody War)
 
-#TH-7
 #TH-8
 
 ##Unknown1 Base
@@ -16,8 +15,6 @@ Format: Name (Times I seen this base after starting this)
 
 ##SepeVo's Base
 <a href="./TH8/SepeVo's%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/2581270_orig.png)</a>
-
-
 
 #TH-9
 
@@ -81,14 +78,8 @@ Format: Name (Times I seen this base after starting this)
 ##White Flag Bases (anti hog)
 <a href="./TH9/White%20Flag%20Bases%20(anti%20hog).md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/2580469_orig.png)</a>
 
-
-
-
-
-
-
-  
-
+##PCB3 Base
+<a href="./TH9/PCB3%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/6487746_orig.png)</a>
 
 #TH-10
 
@@ -111,16 +102,8 @@ Format: Name (Times I seen this base after starting this)
 <a href="./TH10/The%20Dragon%20Flower.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/4665970_orig.png)</a>
 
 
-
-
-
-
-
-
-
 #TODO:
 
-Add these:
 http://www.clashofclans-tools.com/Layouts/All-War-Top
 http://www.warclans.com/coc-base-layouts/any-war-top
 http://forum.supercell.net/showthread.php/515597-KARA-Heroes-s-Internet-War-Bases-Encyclopedia
