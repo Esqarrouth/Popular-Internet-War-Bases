@@ -1,5 +1,5 @@
 ##Kamikaze Bacon Maker
-![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/6718308_orig.png)
+![Kamikaze Bacon Maker](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/6718308_orig.png)
 
 LavaLoon:
 
