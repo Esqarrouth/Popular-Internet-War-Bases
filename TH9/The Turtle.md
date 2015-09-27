@@ -5,13 +5,17 @@ LavaLoon:
 
 www.youtube.com/watch?v=0zPYKV2nIA0
 
+LavaLoonion:
+
+www.youtube.com/watch?v=fm5FFJPvDy0
+
 LoGoWiWi:
 
 www.youtube.com/watch?v=tMngpxJsU2E
 
 LoGoWiPe:
 
-www.youtube.com/watch?v=tMngpxJsU2E
+www.youtube.com/watch?v=tUANFZsGvD8
 
 HoGoWiWi:
 
