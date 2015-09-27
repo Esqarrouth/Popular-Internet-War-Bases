@@ -54,6 +54,12 @@ Format: Name (Times I seen this base after starting this)
 ##PCB (Popular Chinese Base)
 <a href="./TH9/PCB%20(Popular%20Chinese%20Base).md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7450830_orig.png)</a>
 
+##Split Walls Base
+<a href="./TH9/PCBSplit%20Walls%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/2230834_orig.png)</a>
+
+##Anti Very Much Base
+<a href="./TH9/Anti%20Very%20Much%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/1269000_orig.png)</a>
+
 
 
 
@@ -87,11 +93,11 @@ Format: Name (Times I seen this base after starting this)
 
 
 
+#TODO:
+
 Add these:
 http://www.clashofclans-tools.com/Layouts/All-War-Top
 http://www.warclans.com/coc-base-layouts/any-war-top
 http://forum.supercell.net/showthread.php/515597-KARA-Heroes-s-Internet-War-Bases-Encyclopedia
-
-Extra bases here:
 http://forum.supercell.net/showthread.php/341620-COMPILATION-Best-TH9-Trophy-War-bases
 
