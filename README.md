@@ -9,7 +9,7 @@ Format: Name (Times I seen this base after starting this)
 
 ##The General
 
-<a href="./TH9/The%20General.md">![the general](http://i.imgur.com/zrFEMf2.jpg)]</a>
+<a href="./TH9/The%20General.md">![the general](http://i.imgur.com/zrFEMf2.jpg)</a>
 
 Extra:
 http://forum.supercell.net/showthread.php/341620-COMPILATION-Best-TH9-Trophy-War-bases
