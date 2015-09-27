@@ -39,6 +39,11 @@ Format: Name (Times I seen this base after starting this)
 ##The Triple Threat
 <a href="./TH9/The%20Triple%20Threat.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/9565603_orig.png)</a>
 
+##Giza
+<a href="./TH9/Giza.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/6751261_orig.png)</a>
+
+
+
 
   
 
