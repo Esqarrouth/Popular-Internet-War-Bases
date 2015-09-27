@@ -20,3 +20,20 @@ www.youtube.com/watch?v=OKKOLojV2i8
 Hogs:
 
 www.youtube.com/watch?v=KEweW9E1GBY
+
+GoHog:
+
+www.youtube.com/watch?v=UjdE4nTJEHA
+
+Surgical GoHog:
+
+www.youtube.com/watch?v=MxILhbCiVZ0
+www.youtube.com/watch?v=jhCmOAMr8fc
+
+GoVaHo:
+
+www.youtube.com/watch?v=HOlQRk7ncl0
+
+GiHeHo:
+
+www.youtube.com/watch?v=teMxXGul3Rk
