@@ -160,5 +160,5 @@ https://www.youtube.com/channel/UCHaDLHhFQuif9ytwetL0vPg/playlists
 
 #Sources Used:
 
-http://www.onehiveclan.com/3-star-popular-internetforum-bases-part-i.html
-http://www.gadihh.com/base-beat.html
+http://www.onehiveclan.com/3-star-popular-internetforum-bases-part-i.html  
+http://www.gadihh.com/base-beat.html  
