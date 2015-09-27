@@ -14,6 +14,11 @@ Format: Name (Times I seen this base after starting this)
 ##The Ball (Spiral) Base
 <a href="./TH8/The%20Ball%20(Spiral)%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3903397_orig.png)</a>
 
+##SepeVo's Base
+<a href="./TH8/SepeVo's%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/2581270_orig.png)</a>
+
+
+
 #TH-9
 
 ##The General
