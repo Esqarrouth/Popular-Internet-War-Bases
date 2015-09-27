@@ -96,6 +96,9 @@ Format: Name (Times seen in AintNobody War)
 ##Eclipse #1
 <a href="./TH9/Eclipse%20%231.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1441977259.png)</a>
 
+##The Triton
+<a href="./TH9/The%20Triton.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443175050.png)</a>
+
 ##Unknown2
 <a href="./TH9/Unknown2.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1431045801.png)</a>
 
@@ -116,6 +119,12 @@ Format: Name (Times seen in AintNobody War)
 
 ##Unknown8
 <a href="./TH9/Unknown8.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1441971144.png)</a>
+
+##Unknown9
+<a href="./TH9/Unknown9.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443292815.png)</a>
+
+##Unknown10 (Outside Base)
+<a href="./TH9/Unknown10%20(Outside%20Base).md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443292450.png)</a>
 
 
 
