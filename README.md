@@ -10,15 +10,12 @@ Format: Name (Times I seen this base after starting this)
 #TH-9
 
 ##The General
-
 <a href="./TH9/The%20General.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3320575_orig.png)</a>
 
 ##Tesla X/The Kardashian
-
 <a href="./TH9/Tesla-X,%20The%20Kardashian.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7759018_orig.png)</a>
 
 ##The Turtle
-
 <a href="./TH9/The%20Turtle.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3047222_orig.png)</a>
 
 ##Sir Mix Alot
@@ -33,6 +30,8 @@ Format: Name (Times I seen this base after starting this)
 ##Kamikaze Bacon Maker
 <a href="./TH9/Kamikaze%20Bacon%20Maker.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/6718308_orig.png)</a>
 
+##Alpha Sector
+<a href="./TH9/Alpha%20Sector.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/432881_orig.png)</a>
 
 #TH-10
 
