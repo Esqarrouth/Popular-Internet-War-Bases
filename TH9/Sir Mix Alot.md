@@ -1,5 +1,5 @@
 ##Sir Mix Alot
-![Sir Mix Alot](http://i.imgur.com/UbMbOjk.jpg)
+![Sir Mix Alot](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/8196502_orig.png)
 
 LavaLoon:
 
