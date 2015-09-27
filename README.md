@@ -36,6 +36,9 @@ Format: Name (Times I seen this base after starting this)
 ##Diamond Tesla Moat
 <a href="./TH9/Diamond%20Tesla%20Moat.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/8766365_orig.png)</a>
 
+##The Triple Threat
+<a href="./TH9/The%20Triple%20Threat.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/9565603_orig.png)</a>
+
 
   
 
