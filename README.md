@@ -93,6 +93,9 @@ Format: Name (Times seen in AintNobody War)
 ##DragonFlower
 <a href="./TH9/DragonFlower.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1434115930.png)</a>
 
+##Eclipse #1
+<a href="./TH9/Eclipse%20%231.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1441977259.png)</a>
+
 ##Unknown2
 <a href="./TH9/Unknown2.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1431045801.png)</a>
 
@@ -110,6 +113,9 @@ Format: Name (Times seen in AintNobody War)
 
 ##Unknown7
 <a href="./TH9/Unknown7.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1441964644.png)</a>
+
+##Unknown8
+<a href="./TH9/Unknown8.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1441971144.png)</a>
 
 
 
