@@ -1,5 +1,5 @@
 ##The Turtle
-![The Turtle](http://i.ytimg.com/vi/ST-SimQTHUE/maxresdefault.jpg)
+![The Turtle](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/3047222_orig.png)
 
 LavaLoon:
 
