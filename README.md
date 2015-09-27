@@ -44,6 +44,10 @@ Format: Name (Times I seen this base after starting this)
 
 
 
+##Chris Anti-Hog
+<a href="./TH9/Chris%20Anti-Hog.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/9441341_orig.png)</a>
+
+
 
   
 
