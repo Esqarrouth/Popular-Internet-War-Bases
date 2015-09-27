@@ -1,7 +1,7 @@
 # Popular-Internet-War-Bases
 3 Star Popular Internet War Bases Compilation - Clash of Clans
 
-This compilation is brought to you by the clan AintNobody. Feel free to edit and add more bases by sending a pull request. Click on the images to view the videos on how to 3 star the bases.
+This compilation is brought to you by the clan [AintNobody](https://docs.google.com/document/d/1RW2IQxHw-8TYP7lvcIQM0SklZIiN4wDMy8BSO6MmiD0/). Feel free to edit and add more bases by sending a pull request. Click on the images to view the videos on how to 3 star the bases.
 
 Format: Name (Times seen in AintNobody War)
 
@@ -104,8 +104,8 @@ Format: Name (Times seen in AintNobody War)
 
 #TODO:
 
-http://www.clashofclans-tools.com/Layouts/All-War-Top
-http://www.warclans.com/coc-base-layouts/any-war-top
-http://forum.supercell.net/showthread.php/515597-KARA-Heroes-s-Internet-War-Bases-Encyclopedia
-http://forum.supercell.net/showthread.php/341620-COMPILATION-Best-TH9-Trophy-War-bases
+http://www.clashofclans-tools.com/Layouts/All-War-Top  
+http://www.warclans.com/coc-base-layouts/any-war-top  
+http://forum.supercell.net/showthread.php/515597-KARA-Heroes-s-Internet-War-Bases-Encyclopedia  
+http://forum.supercell.net/showthread.php/341620-COMPILATION-Best-TH9-Trophy-War-bases  
 
