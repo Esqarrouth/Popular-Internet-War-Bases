@@ -3,14 +3,12 @@
 
 LavaLoon:
 
-https://www.youtube.com/watch?v=50KUwGLzM8E
-https://www.youtube.com/watch?v=Sc314r-YYXU
+www.youtube.com/watch?v=50KUwGLzM8E  
+www.youtube.com/watch?v=Sc314r-YYXU  
+www.youtube.com/watch?v=nyLY71qv67o
 
+HoLo:
 
-HoGoWiPe:
-
-
-
-GoHog:
+www.youtube.com/watch?v=Uk9W4TTayoc
 
 
