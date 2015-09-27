@@ -102,7 +102,7 @@ Format: Name (Times seen in AintNobody War)
 ##4 Corners
 <a href="./TH9/4%20Corners.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443292450.png)</a>
 
-##Jack Sparrow
+##Jack Sparrow (1)
 <a href="./TH9/Jack%20Sparrow.md">![](http://i.ytimg.com/vi/Prp5feb2rMI/hqdefault.jpg)</a>
 
 ##Unknown2
@@ -114,7 +114,7 @@ Format: Name (Times seen in AintNobody War)
 ##Unknown4
 <a href="./TH9/Unknown4.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1435695245.png)</a>
 
-##Unknown5
+##Unknown5 (1)
 <a href="./TH9/Unknown5.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1438940731.png)</a>
 
 ##Unknown6 (8Flower)
