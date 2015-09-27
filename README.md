@@ -27,6 +27,9 @@ Format: Name (Times I seen this base after starting this)
 ##Gamatrix
 <a href="./TH9/Gamatrix.md">![gamatrix](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/4980940_orig.png)</a>
 
+##Sudoku
+<a href="./TH9/Sudoku.md">![sudoku](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/7563113_orig.png)</a>
+
 
 #TH-10
 
