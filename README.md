@@ -84,17 +84,35 @@ Format: Name (Times seen in AintNobody War)
 ##PCB3 Base
 <a href="./TH9/PCB3%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/6487746_orig.png)</a>
 
-##Unknown2
-<a href="./TH9/Unknown2.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1431045801.png)</a>
+##The Tailor
+<a href="./TH9/The%20Tailor.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1441969654.png)</a>
 
 ##Popular Japanese base
 <a href="./TH9/Popular%20Japanese%20base.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1431092629.png)</a>
 
+##DragonFlower
+<a href="./TH9/DragonFlower.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1434115930.png)</a>
+
+##Unknown2
+<a href="./TH9/Unknown2.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1431045801.png)</a>
+
 ##Unknown3 (Star)
 <a href="./TH9/Unknown3%20(Star).md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1432580124.png)</a>
 
-##DragonFlower
-<a href="./TH9/DragonFlower.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1434115930.png)</a>
+##Unknown4
+<a href="./TH9/Unknown4.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1435695245.png)</a>
+
+##Unknown5
+<a href="./TH9/Unknown5.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1438940731.png)</a>
+
+##Unknown6 (8Flower)
+<a href="./TH9/Unknown6%20(8Flower).md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1438947468.png)</a>
+
+##Unknown7
+<a href="./TH9/Unknown7.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1441964644.png)</a>
+
+
+
 
 #TH-10
 
