@@ -160,6 +160,9 @@ http://www.warclans.com/coc-base-layouts/any-war-top
 http://forum.supercell.net/showthread.php/515597-KARA-Heroes-s-Internet-War-Bases-Encyclopedia  
 http://forum.supercell.net/showthread.php/341620-COMPILATION-Best-TH9-Trophy-War-bases  
 https://www.youtube.com/channel/UCHaDLHhFQuif9ytwetL0vPg/playlists
+https://www.reddit.com/search?q=clash+of+clans share  
+let them know: http://www.gadihh.com/base-beat.html  
+let them know: http://www.onehiveclan.com/3-star-popular-internetforum-bases-part-i.html  
 
 #Sources Used:
 
