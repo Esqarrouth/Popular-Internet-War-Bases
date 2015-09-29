@@ -48,6 +48,9 @@ Format: Name (Times seen in AintNobody War)
 ##Alpha Sector
 <a href="./TH9/Alpha%20Sector.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/432881_orig.png)</a>
 
+##Tentacle Bases (1)
+<a href="./TH9/Tentacle%20Bases.md">![](http://i.imgur.com/XfbAi53.jpg)</a>
+
 ##Diamond Tesla Moat
 <a href="./TH9/Diamond%20Tesla%20Moat.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/8766365_orig.png)</a>
 
@@ -99,7 +102,7 @@ Format: Name (Times seen in AintNobody War)
 ##The Triton
 <a href="./TH9/The%20Triton.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443175050.png)</a>
 
-##4 Corners
+##4 Corners (1)
 <a href="./TH9/4%20Corners.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443292450.png)</a>
 
 ##Jack Sparrow (1)
