@@ -5,10 +5,4 @@ LavaLoon:
 
 www.youtube.com/watch?v=qe6wyAXpSdA
 
-PentaLoon:
 
-www.youtube.com/watch?v=61O9VgkGDpI
-
-GoLaloon:
-
-www.youtube.com/watch?v=twzU-QgC4EA
