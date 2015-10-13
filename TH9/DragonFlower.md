@@ -1,5 +1,5 @@
 ##DragonFlower
-![DragonFlower](http://www.gadihh.com/uploads/4/6/9/1/46913929/1434115930.png)
+![DragonFlower](http://i.imgur.com/IbIxyZ6.jpg)
 
 Quatro GoLaLoon:
 
