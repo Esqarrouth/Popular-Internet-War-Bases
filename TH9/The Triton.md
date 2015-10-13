@@ -1,5 +1,5 @@
 ##The Triton
-![The Triton](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443175050.png)
+![The Triton](http://i.imgur.com/eBX1pI2.jpg)
 
 Surgical GoHog:
 
