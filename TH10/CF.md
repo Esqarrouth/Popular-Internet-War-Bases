@@ -1,5 +1,5 @@
 ##CF
-![CF](http://www.gadihh.com/uploads/4/6/9/1/46913929/1432392217.png)
+![CF](http://i.imgur.com/DIqTnmv.jpg)
 
 LavaLoonion:
 
