@@ -1,5 +1,5 @@
 ##Unknown3 (Star)
-![Unknown3 (Star)](http://www.gadihh.com/uploads/4/6/9/1/46913929/1432580124.png)
+![Unknown3 (Star)](http://i.imgur.com/Qi0AY4G.jpg)
 
 Surgical GoHog:
 
