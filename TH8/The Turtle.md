@@ -1,5 +1,5 @@
 ##The Turtle
-![The Turtle](http://www.gadihh.com/uploads/4/6/9/1/46913929/1429731520.png)
+![The Turtle](http://i.imgur.com/QQoR54G.jpg)
 
 DragLoon:
 
