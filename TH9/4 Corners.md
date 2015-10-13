@@ -1,5 +1,5 @@
-##4 Corners
-![4 Corners](http://www.gadihh.com/uploads/4/6/9/1/46913929/1443292450.png)
+##4 Corners (Unknown 10)
+![4 Corners](http://i.imgur.com/TvJTQhV.jpg)
 
 Dragons & HoGoWiWi:
 
