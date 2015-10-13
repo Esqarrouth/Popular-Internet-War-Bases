@@ -1,5 +1,5 @@
 ##Unknown8
-![Unknown8](http://www.gadihh.com/uploads/4/6/9/1/46913929/1441971144.png)
+![Unknown8](http://i.imgur.com/NYNHsYp.jpg)
 
 Surgical GoHog:
 
