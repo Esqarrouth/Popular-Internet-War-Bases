@@ -1,5 +1,5 @@
 ##Popular Japanese base
-![Popular Japanese base](http://www.gadihh.com/uploads/4/6/9/1/46913929/1431092629.png)
+![Popular Japanese base](http://i.imgur.com/5G8tkS5.jpg)
 
 GoHog:
 
