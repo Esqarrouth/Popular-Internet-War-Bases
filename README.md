@@ -17,7 +17,7 @@ Format: Name (Times seen in AintNobody War)
 <a href="./TH8/SepeVo's%20Base.md">![](http://www.onehiveclan.com/uploads/2/8/8/6/28864503/2581270_orig.png)</a>
 
 ##The Turtle
-<a href="./TH8/The%20Turtle.md">![](http://www.gadihh.com/uploads/4/6/9/1/46913929/1429731520.png)</a>
+<a href="./TH8/The%20Turtle.md">![](http://i.imgur.com/QQoR54G.jpg)</a>
 
 #TH-9
 
