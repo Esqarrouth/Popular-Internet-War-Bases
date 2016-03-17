@@ -171,3 +171,5 @@ let them know: http://www.onehiveclan.com/3-star-popular-internetforum-bases-par
 
 http://www.onehiveclan.com/3-star-popular-internetforum-bases-part-i.html  
 http://www.gadihh.com/base-beat.html  
+
+<a href="https://mixpanel.com/f/partner" rel="nofollow"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics" /></a>
